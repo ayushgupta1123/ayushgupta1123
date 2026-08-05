@@ -157,9 +157,9 @@ Pandas
 
 📫 Connect
 
-LinkedIn → YOUR_LINKEDIN
+LinkedIn → linkedin.com/in/ayush-gupta-1403m
 
-Resume → YOUR_RESUME
+Resume → file:///C:/Users/shubham%20bajaj/OneDrive/Desktop/RESUME-AYUSH%20GUPTA.pdf
 
 <div align="center">
 
