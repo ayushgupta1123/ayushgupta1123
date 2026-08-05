@@ -238,6 +238,16 @@ A regression-based project estimating property values, built around structured r
 
 <br/>
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ayushgupta1123/ayushgupta1123/output/github-contribution-grid-snake-dark.svg" width="97%"/>
+
+</div>
+
+<br/>
+
 ## 🎯 2026 Goals
 
 - 🏗️ Build and ship production-grade multi-agent AI systems
