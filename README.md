@@ -10,9 +10,12 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/github/followers/ayushgupta1123?label=Followers&style=for-the-badge&color=8B5CF6&labelColor=1A1A2E" />
-<img src="https://komarev.com/ghpvc/?username=ayushgupta1123&label=Profile+Views&style=for-the-badge&color=8B5CF6&labelColor=1A1A2E" />
-<img src="https://img.shields.io/github/stars/ayushgupta1123?label=Stars&style=for-the-badge&color=8B5CF6&labelColor=1A1A2E" />
+<a href="https://www.linkedin.com/in/ayush-gupta-1403m/">
+<img src="https://img.shields.io/badge/LinkedIn-1A1A2E?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+</a>
+<a href="mailto:ayushgupta7114@gmail.com">
+<img src="https://img.shields.io/badge/Email-1A1A2E?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+</a>
 
 </div>
 
@@ -61,7 +64,7 @@ Open-source collaboration on agentic AI tooling
 <br/>
 <img src="https://img.shields.io/badge/Python-14151A?style=flat-square&logo=python&logoColor=3776AB"/>
 <img src="https://img.shields.io/badge/SQL-14151A?style=flat-square&logo=postgresql&logoColor=4169E1"/>
-<img src="https://img.shields.io/badge/TypeScript-14151A?style=flat-square&logo=typescript&logoColor=3178C6"/>
+
 
 </td>
 <td valign="top" width="33%">
@@ -74,6 +77,9 @@ Open-source collaboration on agentic AI tooling
 <img src="https://img.shields.io/badge/Pandas-14151A?style=flat-square&logo=pandas&logoColor=150458"/>
 <img src="https://img.shields.io/badge/NumPy-14151A?style=flat-square&logo=numpy&logoColor=013243"/>
 <img src="https://img.shields.io/badge/OpenCV-14151A?style=flat-square&logo=opencv&logoColor=5C3EE8"/>
+<img src="https://img.shields.io/badge/Matplotlib-14151A?style=flat-square&logo=plotly&logoColor=11557C"/>
+<img src="https://img.shields.io/badge/Seaborn-14151A?style=flat-square&logo=python&logoColor=4C72B0"/>
+<img src="https://img.shields.io/badge/NLTK-14151A?style=flat-square&logo=python&logoColor=green"/>
 
 </td>
 <td valign="top" width="33%">
@@ -88,6 +94,13 @@ Open-source collaboration on agentic AI tooling
 <img src="https://img.shields.io/badge/Whisper-14151A?style=flat-square&logo=openai&logoColor=412991"/>
 <img src="https://img.shields.io/badge/Groq-14151A?style=flat-square&logo=groq&logoColor=F55036"/>
 <img src="https://img.shields.io/badge/Ollama-14151A?style=flat-square&logo=ollama&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/OpenAI-14151A?style=flat-square&logo=openai&logoColor=412991"/>
+<img src="https://img.shields.io/badge/Gemini-14151A?style=flat-square&logo=googlegemini&logoColor=8E75B2"/>
+<img src="https://img.shields.io/badge/Claude-14151A?style=flat-square&logo=claude&logoColor=D97757"/>
+<img src="https://img.shields.io/badge/LlamaIndex-14151A?style=flat-square&logo=llama&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/CrewAI-14151A?style=flat-square&logo=crewai&logoColor=FF5A5F"/>
+<img src="https://img.shields.io/badge/AutoGen-14151A?style=flat-square&logo=microsoft&logoColor=00A4EF"/>
+
 
 </td>
 </tr>
@@ -106,6 +119,8 @@ Open-source collaboration on agentic AI tooling
 
 **Frontend**
 <br/>
+<img src="https://img.shields.io/badge/HTML5-14151A?style=flat-square&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/JavaScript-14151A?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/React-14151A?style=flat-square&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Streamlit-14151A?style=flat-square&logo=streamlit&logoColor=FF4B4B"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-14151A?style=flat-square&logo=tailwindcss&logoColor=06B6D4"/>
@@ -118,7 +133,11 @@ Open-source collaboration on agentic AI tooling
 <img src="https://img.shields.io/badge/Git-14151A?style=flat-square&logo=git&logoColor=F05032"/>
 <img src="https://img.shields.io/badge/GitHub-14151A?style=flat-square&logo=github&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Jupyter-14151A?style=flat-square&logo=jupyter&logoColor=F37626"/>
-
+<img src="https://img.shields.io/badge/Google_Colab-14151A?style=flat-square&logo=googlecolab&logoColor=F9AB00"/>
+<img src="https://img.shields.io/badge/VS_Code-14151A?style=flat-square&logo=visualstudiocode&logoColor=007ACC"/>
+<img src="https://img.shields.io/badge/Cursor-14151A?style=flat-square&logo=cursor&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Claude_Code-14151A?style=flat-square&logo=claude&logoColor=D97757"/>
+<img src="https://img.shields.io/badge/Kaggle-14151A?style=flat-square&logo=kaggle&logoColor=20BEFF"/>
 </td>
 </tr>
 </table>
@@ -223,8 +242,6 @@ A regression-based project estimating property values, built around structured r
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ayushgupta1123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushgupta1123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="40%"/>
 
 <br/>
 
@@ -238,13 +255,6 @@ A regression-based project estimating property values, built around structured r
 
 <br/>
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ayushgupta1123/ayushgupta1123/output/github-contribution-grid-snake-dark.svg" width="97%"/>
-
-</div>
 
 
 
