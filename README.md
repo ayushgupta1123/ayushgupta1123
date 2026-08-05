@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">Hi 👋 I'm Ayush Gupta</h1>
 
-<!--
-**ayushgupta1123/ayushgupta1123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+AI Engineer | Machine Learning Engineer | Generative AI Developer
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+🚀 Building AI Applications that solve real-world problems.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+📍 India
+</p>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🤖 Passionate about Artificial Intelligence and Machine Learning
+- 🧠 Currently building AI-powered applications using LLMs and RAG
+- 💡 Interested in Generative AI, NLP, Computer Vision and Multi-Agent Systems
+- 🌱 Currently learning LangGraph, MCP Servers and AI Agents
+- 🎯 Goal: Build production-ready AI systems that impact millions of users
+
+---
+
+## 🚀 Current Focus
+
+- 🤖 Multi-Agent AI Systems
+- 🎥 AI Video Assistant
+- ⚡ FastAPI + React Applications
+- 🧠 Large Language Models (LLMs)
+- 🔍 Retrieval-Augmented Generation (RAG)
