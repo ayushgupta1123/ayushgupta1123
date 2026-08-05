@@ -1,216 +1,269 @@
 <div align="center">
 
-👋 Hi, I'm Ayush Gupta
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F1A,100:1A1A2E&height=220&section=header&text=Ayush%20Gupta&fontSize=52&fontColor=E4E4E7&fontAlignY=38&animation=fadeIn&desc=AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20Generative%20AI&descSize=18&descAlignY=58&descColor=A1A1AA" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=2800&pause=1000&center=true&vCenter=true&width=900&lines=AI+Engineer;Machine+Learning+Engineer;Generative+AI+Developer;Building+Production-Ready+AI+Applications;FastAPI+Developer;React+Developer;LLMs+%7C+RAG+%7C+AI+Agents"/>
+<br/>
 
-AI Engineer • Machine Learning Engineer • Generative AI Developer
+<a href="https://github.com/ayushgupta1123">
+<img src="https://readme-typing-svg.demolab.com/?lines=Building+production-ready+AI+systems;Machine+Learning+%2B+LLMs+%2B+RAG;LangGraph+%7C+Multi-Agent+Orchestration;FastAPI+%2B+React+%2B+Docker;&font=Fira+Code&center=true&width=650&height=45&color=A78BFA&vCenter=true&size=22&pause=1800&duration=3000" alt="Typing SVG" />
+</a>
 
-Building intelligent AI products powered by Machine Learning, Large Language Models, RAG and scalable backend systems.
+<br/><br/>
 
-<p>
-<a href="https://www.linkedin.com/in/ayush-gupta-1403m/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bx5iX8qUwSRKAQ%2B0fUT72Hw%3D%3D"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="YOUR_RESUME_URL"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"></a>
-<img src="https://komarev.com/ghpvc/?username=ayushgupta1123&style=for-the-badge"/>
-</p>
+<img src="https://img.shields.io/github/followers/ayushgupta1123?label=Followers&style=for-the-badge&color=8B5CF6&labelColor=1A1A2E" />
+<img src="https://komarev.com/ghpvc/?username=ayushgupta1123&label=Profile+Views&style=for-the-badge&color=8B5CF6&labelColor=1A1A2E" />
+<img src="https://img.shields.io/github/stars/ayushgupta1123?label=Stars&style=for-the-badge&color=8B5CF6&labelColor=1A1A2E" />
 
 </div>
 
-🚀 About Me
+<br/>
+
+## 🚀 About Me
 
-I am an AI Engineer passionate about building production-ready AI applications using Machine Learning, Large Language Models, Retrieval-Augmented Generation (RAG), FastAPI and React.
+I'm an **AI Engineer** focused on building production-ready applications at the intersection of **Machine Learning**, **Large Language Models**, and **Retrieval-Augmented Generation (RAG)**. My work spans the full stack — from model logic in Python to serving it through **FastAPI** backends and **React** interfaces.
+
+Right now I'm going deeper into **LangGraph**, **multi-agent orchestration**, **Model Context Protocol (MCP)**, and scalable inference pipelines — moving from single-shot LLM calls toward systems where agents plan, coordinate, and self-correct.
 
-Currently exploring LangGraph, AI Agents, MCP, scalable inference pipelines and modern AI architectures.
+I care about AI that ships, not just AI that demos.
 
-🧠 Current Focus
+<table>
+<tr>
+<td valign="top" width="50%">
 
-🤖 Multi-Agent AI Systems
+**🧠 Currently Building**
+Multi-agent research automation systems using LangGraph + FastAPI orchestration
 
-🧠 Generative AI
+**📚 Currently Learning**
+LangGraph state machines, AI agent design patterns, MCP
 
-📚 Retrieval-Augmented Generation (RAG)
+</td>
+<td valign="top" width="50%">
 
-⚡ FastAPI + React
+**🎯 Currently Exploring**
+RAG architectures, vector retrieval, scalable LLM inference
 
-☁️ Docker Deployment
+**🤝 Open To**
+Open-source collaboration on agentic AI tooling
 
-🌍 Open Source
+</td>
+</tr>
+</table>
 
-🛠 Tech Stack
+<br/>
 
-Languages
+## 🛠️ Tech Stack
 
-Python • SQL
+<table width="100%">
+<tr>
+<td valign="top" width="33%">
 
-AI / ML
+**Languages**
+<br/>
+<img src="https://img.shields.io/badge/Python-14151A?style=flat-square&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/SQL-14151A?style=flat-square&logo=postgresql&logoColor=4169E1"/>
+<img src="https://img.shields.io/badge/TypeScript-14151A?style=flat-square&logo=typescript&logoColor=3178C6"/>
 
-Scikit-Learn • TensorFlow • PyTorch • Pandas • NumPy • OpenCV • NLP
+</td>
+<td valign="top" width="33%">
 
-Generative AI
+**Machine Learning**
+<br/>
+<img src="https://img.shields.io/badge/Scikit--Learn-14151A?style=flat-square&logo=scikitlearn&logoColor=F7931E"/>
+<img src="https://img.shields.io/badge/TensorFlow-14151A?style=flat-square&logo=tensorflow&logoColor=FF6F00"/>
+<img src="https://img.shields.io/badge/PyTorch-14151A?style=flat-square&logo=pytorch&logoColor=EE4C2C"/>
+<img src="https://img.shields.io/badge/Pandas-14151A?style=flat-square&logo=pandas&logoColor=150458"/>
+<img src="https://img.shields.io/badge/NumPy-14151A?style=flat-square&logo=numpy&logoColor=013243"/>
+<img src="https://img.shields.io/badge/OpenCV-14151A?style=flat-square&logo=opencv&logoColor=5C3EE8"/>
 
-LangChain • LangGraph • FAISS • ChromaDB • Hugging Face • Whisper • Ollama • Groq • Transformers
+</td>
+<td valign="top" width="33%">
 
-Backend
+**Generative AI**
+<br/>
+<img src="https://img.shields.io/badge/LangChain-14151A?style=flat-square&logo=langchain&logoColor=1C3C3C"/>
+<img src="https://img.shields.io/badge/LangGraph-14151A?style=flat-square&logo=langgraph&logoColor=1C3C3C"/>
+<img src="https://img.shields.io/badge/HuggingFace-14151A?style=flat-square&logo=huggingface&logoColor=FFD21E"/>
+<img src="https://img.shields.io/badge/FAISS-14151A?style=flat-square&logo=meta&logoColor=0668E1"/>
+<img src="https://img.shields.io/badge/ChromaDB-14151A?style=flat-square&logo=databricks&logoColor=FF6A00"/>
+<img src="https://img.shields.io/badge/Whisper-14151A?style=flat-square&logo=openai&logoColor=412991"/>
+<img src="https://img.shields.io/badge/Groq-14151A?style=flat-square&logo=groq&logoColor=F55036"/>
+<img src="https://img.shields.io/badge/Ollama-14151A?style=flat-square&logo=ollama&logoColor=FFFFFF"/>
 
-FastAPI • REST APIs • Docker • PostgreSQL • Git
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
 
-Frontend
+**Backend**
+<br/>
+<img src="https://img.shields.io/badge/FastAPI-14151A?style=flat-square&logo=fastapi&logoColor=009688"/>
+<img src="https://img.shields.io/badge/REST_APIs-14151A?style=flat-square&logo=fastapi&logoColor=009688"/>
+<img src="https://img.shields.io/badge/PostgreSQL-14151A?style=flat-square&logo=postgresql&logoColor=4169E1"/>
+<img src="https://img.shields.io/badge/Docker-14151A?style=flat-square&logo=docker&logoColor=2496ED"/>
 
-React • Streamlit • Tailwind CSS
+</td>
+<td valign="top" width="33%">
 
-⭐ Featured Projects
+**Frontend**
+<br/>
+<img src="https://img.shields.io/badge/React-14151A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Streamlit-14151A?style=flat-square&logo=streamlit&logoColor=FF4B4B"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-14151A?style=flat-square&logo=tailwindcss&logoColor=06B6D4"/>
 
-Project
+</td>
+<td valign="top" width="33%">
 
-Description
+**Tools**
+<br/>
+<img src="https://img.shields.io/badge/Git-14151A?style=flat-square&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/GitHub-14151A?style=flat-square&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Jupyter-14151A?style=flat-square&logo=jupyter&logoColor=F37626"/>
 
-Tech
+</td>
+</tr>
+</table>
 
-🤖 Multi-Agent AI
+<br/>
 
-AI Agents with orchestration
+## ⭐ Featured Projects
 
-LangGraph, FastAPI
+<table width="100%">
+<tr>
+<td valign="top" width="50%">
 
-🎥 AI Video Assistant
+### 🤖 [Multi-Agent Research System](https://github.com/ayushgupta1123/Multi_agent_research_system)
 
-Video Q&A using Whisper + RAG
+An orchestrated multi-agent system where specialized AI agents coordinate through **LangGraph** to automate multi-step research workflows, served through a **FastAPI** backend.
 
-Whisper, FAISS, LLM
+**Highlights**
+- Agent-to-agent orchestration rather than a single monolithic LLM call
+- State-driven workflow via LangGraph
+- Most actively developed repository — ongoing work
 
-🎬 Movie Buddy
+`LangGraph` · `FastAPI` · `Python`
 
-Content Recommendation Engine
+</td>
+<td valign="top" width="50%">
 
-Python, Streamlit
+### 🎥 AI Video Assistant
 
-📄 PDF Assistant
+Video question-answering system combining **Whisper** transcription with **RAG retrieval** to let users query video content conversationally.
 
-Chat with PDFs
+**Highlights**
+- Speech-to-text pipeline via Whisper
+- Semantic search over transcribed content using FAISS
+- LLM-powered contextual Q&A
 
-LangChain, Embeddings
+`Whisper` · `FAISS` · `LLM` · `Python`
 
-📱 SMS Spam Detector
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
 
-NLP Classification
+### 📄 PDF Assistant
 
-Scikit-Learn
+A document Q&A tool that lets users chat with PDF content using **LangChain**-powered retrieval and embeddings.
 
-🏠 House Price Prediction
+**Highlights**
+- Embedding-based document chunk retrieval
+- Conversational interface over static documents
 
-Regression ML Project
+`LangChain` · `Embeddings` · `TypeScript`
 
-Pandas, Sklearn
+</td>
+<td valign="top" width="50%">
 
-📈 GitHub Analytics
+### 🎬 Movie Buddy
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ayushgupta1123&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushgupta1123&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+A machine learning–based **content recommendation engine** that suggests movies based on similarity modeling.
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=ayushgupta1123&theme=tokyonight&hide_border=true"/>
-</p>
+**Highlights**
+- Recommendation logic built and validated in Jupyter Notebook
+- Interactive interface via Streamlit
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushgupta1123&theme=tokyo-night"/>
-</p>
+`Python` · `Streamlit` · `Jupyter Notebook`
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ayushgupta1123&theme=tokyonight&no-frame=true&margin-w=12"/>
-</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
 
-🎯 AI Journey
+### 📱 SMS Spam Detector
 
-Python
-   │
-Machine Learning
-   │
-Deep Learning
-   │
-Movie Recommendation
-   │
-AI Video Assistant
-   │
-RAG Applications
-   │
-Multi-Agent AI
-   │
-Production AI
+NLP-based spam classification system using **Naive Bayes** and **TF-IDF** vectorization, deployed with Streamlit.
 
-🏅 2026 Goals
+**Highlights**
+- Text preprocessing and TF-IDF feature extraction
+- Naive Bayes classifier for binary spam detection
+- Live interactive demo via Streamlit
 
-Build production AI systems
+`Scikit-Learn` · `NLP` · `Streamlit`
 
-Contribute to Open Source
+</td>
+<td valign="top" width="50%">
 
-Master LangGraph & AI Agents
+### 🏠 Bengaluru Property Evaluation
 
-Deploy scalable AI products
+A regression-based project estimating property values, built around structured real estate data.
 
-Publish technical blogs
+**Highlights**
+- Data-driven price estimation model
+- Feature engineering on real-world housing data
 
-📫 Connect
+`Python` · `Pandas` · `Scikit-Learn`
 
-LinkedIn → YOUR_LINKEDIN_URL
+</td>
+</tr>
+</table>
 
-Resume → YOUR_RESUME_URL
+<br/>
 
-GitHub → https://github.com/ayushgupta1123
-
-🐍 Snake Animation (Enable Later)
-
-Create:
-
-.github/workflows/snake.yml
-
-Use:https://github.com/Platane/snk
-
-📊 GitHub Metrics (Enable Later)
-
-Use:https://github.com/lowlighter/metrics
-
-📦 Recommended Pinned Repositories
-
-Multi-Agent AI
-
-AI Video Assistant
-
-Movie Buddy
-
-PDF Assistant
-
-SMS Spam Detector
-
-House Price Prediction
-
-📁 Repository README Structure
-
-Every repository should contain:
-
-Project Banner
-
-Live Demo
-
-Screenshots
-
-Features
-
-Tech Stack
-
-Installation
-
-Folder Structure
-
-Architecture Diagram
-
-Future Improvements
-
-License
+## 📊 GitHub Analytics
 
 <div align="center">
 
-⭐ Building AI that solves real-world problems.
+<img src="https://github-readme-stats.vercel.app/api?username=ayushgupta1123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushgupta1123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="40%"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushgupta1123&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushgupta1123&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9" width="97%"/>
+
+</div>
+
+<br/>
+
+## 🎯 2026 Goals
+
+- 🏗️ Build and ship production-grade multi-agent AI systems
+- 🌍 Contribute meaningfully to open-source AI tooling
+- 🧩 Master LangGraph and advanced agent orchestration patterns
+- ☁️ Deploy scalable, containerized AI products
+- ✍️ Publish technical writing on applied AI engineering
+
+<br/>
+
+## 📫 Connect
+
+<div align="center">
+
+<a href="https://github.com/ayushgupta1123">
+<img src="https://img.shields.io/badge/GitHub-14151A?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+*Building AI that solves real-world problems.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F1A,100:1A1A2E&height=100&section=footer" width="100%"/>
 
 </div>
